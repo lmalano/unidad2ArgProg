@@ -1,16 +1,12 @@
 git add.
 git commit -m "ej segudna subida"
 git push -u origin main
-<<<<<<< HEAD
 git push
 =======
 git pull  https://ghib/repomio 
 
 csubir cambios
-git status (muestra modificaciones)
-git commit
 git add .
+git commit (muestra modificaciones al igual q git commit)
 git remote add master https://github.com/lmalano/Unidad2-ArgPrograma.git (x si no esta conf el repo )
 
-git commit -m "cambio n" //recien aca muestra el cambio como en status
->>>>>>> dc7a4f6 (tercer cambio)
