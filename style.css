@@ -1,0 +1,31 @@
+#textoprincipal {
+ background-color: yellowgreen;
+ margin-bottom:20px
+}
+
+h1 {
+    
+    font-style: initial;
+    background-color:blue;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+h3 {
+    border: 2px solid rgb(235, 77, 29);
+
+}
+
+#secciondos {
+    border: 10px;
+    background-color: aqua;
+    column-count:2;
+    column-rule: 1px solid rgb(0, 0, 0);
+}
+
+#img1 {
+    border: 2px solid rgba(100, 75, 55, 0.925);
+    margin-top: 10px;
+    text-align : center;
+}
+
